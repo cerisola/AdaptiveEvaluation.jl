@@ -1,0 +1,3 @@
+[deps]
+AdaptiveEvaluation = "fd8a4f78-b0f3-4fdc-976e-6632fb4fe704"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
